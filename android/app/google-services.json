@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982171502878",
+    "project_id": "clontwitter",
+    "storage_bucket": "clontwitter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982171502878:android:4d88984d90aca136ac210f",
+        "android_client_info": {
+          "package_name": "com.example.twitterclon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4XWlEwrcX3Cj2IuDemztguN5s6WRyuWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

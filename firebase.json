@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"clontwitter","appId":"1:982171502878:android:4d88984d90aca136ac210f","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"clontwitter","configurations":{"android":"1:982171502878:android:4d88984d90aca136ac210f","ios":"1:982171502878:ios:f4dbb197b44f631cac210f"}}}}}}
